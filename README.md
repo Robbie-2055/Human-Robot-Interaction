@@ -1,4 +1,4 @@
-Steps
+Steps to run project
 1.	Download all the files in the folder above
 2.	Extract the contents of the folder and keep in the same file
 3.	Open the flask APP python file
