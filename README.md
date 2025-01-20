@@ -1,4 +1,5 @@
-NAO Tutor Robot: Study Buddy
+NAO Tutor Study Buddy Robot
+
 This project leverages the NAO robot to serve as a Study Buddy, enhancing learning through interactive flashcards. The system integrates the NAO robot with a Flask application hosting a database of questions and answers. Users can select a subject area, and the robot retrieves flashcards through a URL provided by the Flask app, offering a dynamic learning experience.
 Features
 •	Interactive Learning: The NAO robot generates and presents flashcards.
@@ -7,6 +8,7 @@ Features
 •	User-Friendly Interface: Select subject areas and receive curated flashcards.
 
 Prerequisites
+
 •	Python IDE
 •	SQLite or another database management system
 •	Choregraphe software
