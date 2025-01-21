@@ -56,7 +56,7 @@ Stores flashcard data for efficient access and retrieval.
 
 # Face gaze Detection 
 
-This project uses MediaPipe's Face Mesh solution to detect the gaze direction of a person. Based on the detected gaze direction, the system classifies whether the person is "Attentive" or "Distracted". This is achieved by analyzing the relative positions of key facial landmarks. This project would be used by the NAO robot to determine whether ther user is paying attention or not.
+This project uses MediaPipe's Face Mesh solution to detect the gaze direction of a person. Based on the detected gaze direction, the system classifies whether the person is "Attentive" or "Distracted". This is achieved by analyzing the relative positions of key facial landmarks. This is an external project that would be used to feed information to the NAO on the learner's attention during the session
 
 ## Facial Key points
 ![face with key points](https://github.com/user-attachments/assets/7a697adb-bcba-4984-adce-404f14e4e96f)
