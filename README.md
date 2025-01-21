@@ -48,3 +48,38 @@ Interactive dialogue and movement programming in Choregraphe.
 Stores flashcard data for efficient access and retrieval.
 
 
+
+
+
+
+
+
+# Face direction Dection 
+
+This project uses MediaPipe's Face Mesh solution to detect the gaze direction of a person. Based on the detected gaze direction, the system classifies whether the person is "Attentive" or "Distracted". This is achieved by analyzing the relative positions of key facial landmarks
+
+## Features
+
+1. **Real-time Face Mesh Detection:** Using the webcam, the system detects facial landmarks and estimates gaze direction.
+2. **Display of Gaze Status:** The system shows "Distracted" when the person is looking away from the center (either left, right, up, or down) and "Attentive" when the person is facing forward.
+
+## Requirements
+
+1. Python
+2. OpenCv
+3. Media Pipe
+
+## How it works
+
+1. **Webcam Input:** The webcam is used to capture real-time video frames.
+2. **Face Mesh Processing:** MediaPipe processes each frame to detect facial landmarks.
+3. **Gaze Calculation:** The script checks the relative position of the nose, eyes, and cheeks to determine the gaze direction
+4. **Gaze Status:** The status ("Distracted" or "Attentive") is displayed on the frame based on the gaze direction.
+
+## Student Attention detection
+
+
+
+https://github.com/user-attachments/assets/f24cd993-36ca-42bb-b9c6-d9fa9f262295
+
+
