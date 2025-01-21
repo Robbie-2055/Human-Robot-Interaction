@@ -76,7 +76,7 @@ This project uses MediaPipe's Face Mesh solution to detect the gaze direction of
 
 1. **Webcam Input:** The webcam is used to capture real-time video frames.
 2. **Face Mesh Processing:** MediaPipe processes each frame to detect facial landmarks.
-3. **Gaze Calculation:** The script checks the relative position of the nose, eyes, and cheeks to determine the gaze direction
+3. **Gaze Calculation:** The script checks the relative position of the nose, eyes, ,chin and cheeks to determine the gaze direction
 4. **Gaze Status:** The status ("Distracted" or "Attentive") is displayed on the frame based on the gaze direction.
 
 ## Student Attention detection
