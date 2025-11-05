@@ -50,16 +50,24 @@ Stores flashcard data for efficient access and retrieval.
 
 ## Development results
 Facial recognition
+-My team and I, utilized the NAO robot’s built-in facial recognition system to initiate each questioning session by greeting individuals based on the faces it recognized.
 
 
-https://github.com/user-attachments/assets/84ebf12b-0b77-4e84-8758-6247f9f6ff04
+
+https://github.com/user-attachments/assets/a6714a0d-ea8b-42c0-988a-5f06db43c8fb
+
+
 
 
 Initial Attempt at questioning
 
 
 
-https://github.com/user-attachments/assets/42addd2c-e85c-4377-aa07-b2cb412bfd37
+https://github.com/user-attachments/assets/5022235d-59f8-49cc-9304-d905ac2a0470
+
+
+
+
 
 
 
