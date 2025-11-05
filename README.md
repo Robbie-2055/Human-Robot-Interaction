@@ -48,6 +48,21 @@ Interactive dialogue and movement programming in Choregraphe.
 Stores flashcard data for efficient access and retrieval.
 
 
+## Development results
+Facial recognition
+
+
+https://github.com/user-attachments/assets/84ebf12b-0b77-4e84-8758-6247f9f6ff04
+
+
+Initial Attempt at questioning
+
+
+
+https://github.com/user-attachments/assets/42addd2c-e85c-4377-aa07-b2cb412bfd37
+
+
+
 
 
 
